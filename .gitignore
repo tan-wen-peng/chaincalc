@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+0_mydocument/
+cases/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# Excel 临时锁文件
+~$*.xlsx
+
+# 本地临时输出
+tmp_*
+*.tmp
